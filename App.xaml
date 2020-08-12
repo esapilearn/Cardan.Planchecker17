@@ -1,0 +1,9 @@
+﻿<prism:PrismApplication x:Class="Cardan.PlanChecker18.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	     xmlns:prism="http://prismlibrary.com/"
+             xmlns:local="clr-namespace:Cardan.PlanChecker18">
+    <Application.Resources>
+         
+    </Application.Resources>
+</prism:PrismApplication>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cardan.PlanChecker18", "Cardan.PlanChecker18.csproj", "{36DD11BF-1650-45B4-8F4E-05BAD917E709}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36DD11BF-1650-45B4-8F4E-05BAD917E709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36DD11BF-1650-45B4-8F4E-05BAD917E709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36DD11BF-1650-45B4-8F4E-05BAD917E709}.Debug|x64.ActiveCfg = Debug|x64
+		{36DD11BF-1650-45B4-8F4E-05BAD917E709}.Debug|x64.Build.0 = Debug|x64
+		{36DD11BF-1650-45B4-8F4E-05BAD917E709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36DD11BF-1650-45B4-8F4E-05BAD917E709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36DD11BF-1650-45B4-8F4E-05BAD917E709}.Release|x64.ActiveCfg = Release|x64
+		{36DD11BF-1650-45B4-8F4E-05BAD917E709}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E743B77-3956-4AC9-A072-C3151A589A96}
+	EndGlobalSection
+EndGlobal
