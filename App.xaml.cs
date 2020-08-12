@@ -16,7 +16,7 @@ namespace Cardan.PlanChecker18
 {
     /// <summary>
     /// Interaction logic for App.xaml
-    /// </summary>
+    /// </summary>//
     public partial class App
     {
         private IEventAggregator _ea;
