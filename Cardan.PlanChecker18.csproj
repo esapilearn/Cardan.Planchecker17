@@ -99,7 +99,10 @@
     <Compile Include="Overlay\SelectPatient.xaml.cs">
       <DependentUpon>SelectPatient.xaml</DependentUpon>
     </Compile>
+    <Compile Include="ViewModels\CTDateConstraint.cs" />
     <Compile Include="ViewModels\MainViewModel.cs" />
+    <Compile Include="ViewModels\NoBlueStructureConstraint.cs" />
+    <Compile Include="ViewModels\PlanConstraint.cs" />
     <Compile Include="Views\MainView.xaml.cs">
       <DependentUpon>MainView.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -130,10 +133,10 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="ESAPIX_15.5">
-      <Version>1.5.3.11</Version>
+      <Version>1.5.3.13</Version>
     </PackageReference>
     <PackageReference Include="Prism.Ninject">
-      <Version>7.2.0.1367</Version>
+      <Version>7.2.0.1422</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
